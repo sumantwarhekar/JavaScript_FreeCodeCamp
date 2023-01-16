@@ -1,0 +1,1 @@
+const product = 10 * 8;

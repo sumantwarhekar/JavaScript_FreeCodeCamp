@@ -1,0 +1,1 @@
+var myDecimal = 6.9;
