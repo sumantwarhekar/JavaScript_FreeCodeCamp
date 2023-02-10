@@ -1,2 +1,2 @@
-var myFirstName ="Hello";
-var myLastName = "JavaScript";
+var myFirstName="Sumant";
+var myLastName="Warhekar";

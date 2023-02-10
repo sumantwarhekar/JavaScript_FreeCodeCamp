@@ -1,5 +1,4 @@
 // Change code below this line
-const someAdjective = "crazy.";
+const someAdjective = "worth it.";
 let myStr = "Learning to code is ";
 myStr+=someAdjective;
-console.log(myStr);

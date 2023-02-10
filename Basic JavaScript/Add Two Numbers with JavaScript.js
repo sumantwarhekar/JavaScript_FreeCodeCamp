@@ -1,1 +1,1 @@
-const sum = 13+7;
+const sum = 10 + 10;
