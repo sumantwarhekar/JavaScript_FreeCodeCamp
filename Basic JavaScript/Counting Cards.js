@@ -13,15 +13,13 @@ function cc(card) {
     case 7:
     case 8:
     case 9:
-      count=count;
       break;
     case 10:
-    case "J":
-    case "Q":
-    case "K":
-    case "A":
+    case 'J':
+    case 'Q':
+    case 'K':
+    case 'A':
       count--;
-      break;
   }
   if(count>0)
     return (count+" Bet");
