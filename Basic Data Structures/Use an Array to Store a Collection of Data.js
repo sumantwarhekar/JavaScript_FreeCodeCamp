@@ -1,0 +1,1 @@
+let yourArray=[true,false,9,13,18,"Warhacker"]; // Change this line
